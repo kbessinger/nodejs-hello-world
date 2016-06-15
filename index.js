@@ -1,3 +1,3 @@
 exports.handler = function(event, context) {
-    context.succeed("Hi");
+    context.succeed("Hi Friend");
 };
